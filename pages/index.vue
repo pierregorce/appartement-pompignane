@@ -78,7 +78,7 @@
                       <v-icon>format_quote</v-icon>
                       <i>
                         <b>
-                          Actuellement localisée à Montpellier, je cherche à emménager en région Drôme-Ardèche.
+                          Actuellement localisée à Montpellier, je cherche à emménager en Drôme-Ardèche.
                         </b>
                       </i>
                     </div>
@@ -96,6 +96,8 @@
           <v-flex xs12 sm12 class="pa-2">
             <v-card>
               <v-card-text>
+                Recherche un poste avec de la polyvalence dans le domaine de l'administratif liée à la vente et/ou la logistique
+                <br>
                 Some motivation text, explain what I'm looking for
               </v-card-text>
             </v-card>
@@ -132,19 +134,19 @@
                             <b>Co-Responsable service SAV (société Antinéa)</b>
                             <div class="pl-4">
                               <v-icon small>arrow_right</v-icon>
-                              Gestion mail  / Standard téléphonique
+                              Gestion mails  / Standard téléphonique
                             </div>
                             <div class="pl-4">
                               <v-icon small>arrow_right</v-icon>
-                              Gestion litige transporteurs et clients
+                              Gestion litiges transporteurs et clients
                             </div>
                             <div class="pl-4">
                               <v-icon small>arrow_right</v-icon>
-                              Gestion SAV client et fournisseur
+                              Gestion SAV clients et fournisseurs
                             </div>
                              <div class="pl-4">
                               <v-icon small>arrow_right</v-icon>
-                              Logistique/ Vérification de stock
+                              Logistique / Vérification des stocks
                             </div>
                             <div class="pl-4">
                               <v-icon small>arrow_right</v-icon>
@@ -152,19 +154,22 @@
                             </div>
                              <div class="pl-4">
                               <v-icon small>arrow_right</v-icon>
-                              Mise en place de procédures de prise en charge de litige en vu d’un usage interne
+                              Mise en place de procédures de prise en charge de litiges en vue d’un usage interne
                             </div>
                           </div>
                             </v-flex>
-                             <v-flex xs12 sm12>
+
+                          <br>
+
+                             <v-flex xs12 sm12 class="mt-2">
                           <div class="pa-0">
                             <div class="pa-0">
                               <v-icon>chevron_right</v-icon>
-                              <b>Administratif des ventes / Entretiens clientèle (société Atothis)</b>
+                              <b>Administratif des ventes / Entretien clientèle (société Atothis)</b>
                             </div>
                             <div class="pl-4">
                                 <v-icon small>arrow_right</v-icon>
-                                Gestion mail / Standard téléphonique
+                                Gestion mails / Standard téléphonique
                             </div>
                             <div class="pl-4">
                                 <v-icon small>arrow_right</v-icon>
@@ -178,15 +183,17 @@
                             </v-flex>
                           </v-layout>
 
+                          <br>
+
                           <div class="pt-2 text-color-red">
                             <i>
-                              <v-icon small>build</v-icon> Sage, Wavesoft, Excel, Outlook, Word, CPA (passerelle-Sage), Powerpoint
+                              <v-icon small>build</v-icon>Sage, Wavesoft, Excel, Outlook, Word, CPA (passerelle-Sage), Powerpoint
                             </i>
                           </div>
 
                           <div class="pt-2">
                             <i>
-                              <b><v-icon small>store</v-icon> Groupe Antinéa : Sociétés Atothis et Antinéa / <v-icon small>room</v-icon>Montpellier (34)</b>
+                              <b><v-icon small>store</v-icon>Groupe Antinéa : Sociétés Atothis et Antinéa / <v-icon small>room</v-icon>Montpellier (34)</b>
                             </i>
                           </div>
                         </v-card-text>
@@ -217,26 +224,26 @@
                         <v-card-text>
                           <h3>Caviste</h3>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Encaissement, conseils client, service bar
+                            <v-icon>chevron_right</v-icon>Encaissement, conseils clients, service bar
                           </div>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Organisation & conduite d’ateliers de découverte et initiation à la bière
+                            <v-icon>chevron_right</v-icon>Organisation, conduite d’ateliers de découverte et d'initiation à la bière
                           </div>
                           <div class="pa-0">
                             <v-icon>chevron_right</v-icon>Développement rayon bière craft, contact commercial développement de relations avec des partenaires locaux
                           </div>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Gestion de stock (bon de livraison, commandes, réception fournisseurs)
+                            <v-icon>chevron_right</v-icon>Gestion des stocks (bon de livraison, commandes, réception fournisseurs)
                           </div>
                           <div class="pt-2 text-color-red">
                             <i>
-                              <v-icon small>build</v-icon> Excel, Gmail, Powerpoint, Logiciels internes V&B (caisse, stock, commande, facturation), Réseaux-sociaux
+                              <v-icon small>build</v-icon>Excel, Gmail, Powerpoint, Logiciels internes V&B (caisse, stock, commande, facturation), Réseaux-sociaux
                             </i>
                           </div>
 
                           <div class="pt-2">
                             <i>
-                              <b><v-icon small>store</v-icon> SAS K&S V and B / <v-icon small>room</v-icon>Le Crès (34)</b>
+                              <b><v-icon small>store</v-icon>SAS K&S V and B / <v-icon small>room</v-icon>Le Crès (34)</b>
                             </i>
                           </div>
                         </v-card-text>
@@ -269,29 +276,29 @@
                         <v-card-text>
                         <h3>Responsable Boutique</h3>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Organisation événementiel (visite brasserie, soirée à theme), communication sur les réseaux sociaux (facebook et instagram), 
+                            <v-icon>chevron_right</v-icon>Organisation de l'évènementiel (visite brasserie, soirée à thème), communication sur les réseaux sociaux (facebook et instagram), 
                             gestion de newsletters et animation d’un blog.
                           </div>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Aide commercial
+                            <v-icon>chevron_right</v-icon>Aide commerciale
                           </div>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Logistique des commandes/ facturation
+                            <v-icon>chevron_right</v-icon>Logistique des commandes / facturation
                           </div>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Responsable qualité sur produit fini et en cours de production (analyse, procédures)
+                            <v-icon>chevron_right</v-icon>Responsable qualité produit (analyses, procédures)
                           </div>
                           <div class="pa-0">
                             <v-icon>chevron_right</v-icon>Participation à la production, brassin, mise en bouteille
                           </div>
                           <div class="pt-2 text-color-red">
                             <i>
-                              <v-icon small>build</v-icon> Wavesoft, Excel, Gmail, Logiciel de caisse, YLMP, Mail Chimp, Réseaux-sociaux
+                              <v-icon small>build</v-icon>Wavesoft, Excel, Gmail, Logiciel de caisse, YLMP, Mail Chimp, Réseaux-sociaux
                             </i>
                           </div>
                           <div class="pt-2">
                             <i>
-                              <b><v-icon small>store</v-icon> Brasserie Artisanale du Dauphiné (Mandrin), SARL Alpes Bière / <v-icon small>room</v-icon>Grenoble (38)</b>
+                              <b><v-icon small>store</v-icon>Brasserie Artisanale du Dauphiné (Mandrin), SARL Alpes Bière / <v-icon small>room</v-icon>Grenoble (38)</b>
                             </i>
                           </div>
                         </v-card-text>
@@ -324,7 +331,7 @@
                         <v-card-text>
                         <h3>Technicienne de laboratoire</h3>
                           <div class="pa-0">
-                            <v-icon>chevron_right</v-icon>Préparation de solution mère en vue d'analyses microbiologiques sur produit alimentaire
+                            <v-icon>chevron_right</v-icon>Préparation de solution mère en vue d'analyses microbiologiques sur des produits alimentaires
                           </div>
                           <div class="pt-2">
                             <i>
@@ -424,7 +431,7 @@
                     <v-chip label>Autonome</v-chip>
                     <v-chip label>Rigoureuse</v-chip>
                     <v-chip label>Consciencieuse</v-chip>
-                    <v-chip label>Communication</v-chip>
+                    <v-chip label>Bonne communication</v-chip>
                     <v-chip label>Responsable</v-chip>
                   </div>
                 </v-card-text>
@@ -661,9 +668,9 @@
                         <v-avatar v-ripple color="transparent" size="100" style="background-color: rgba(0, 191, 221, 0.9) !important; cursor: pointer;">
                           <div>
                             <div>
-                              <v-icon>sports_bar</v-icon>
+                              <v-icon>local_florist</v-icon>
                             </div>
-                            <h3>BIERE</h3>
+                            <h3>JARDINAGE</h3>
                           </div>
                         </v-avatar>
                       </div>
