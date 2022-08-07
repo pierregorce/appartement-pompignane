@@ -14,12 +14,9 @@
                                 flex-wrap: nowrap;
                                 align-content: center;
                                 justify-content: center;
-                                align-items: center;
-                                overflow: hidden;
-                                height: 174px;
-                                position: relative;">
+                                align-items: center;">
                       <!-- <img style="max-width: 158px; margin-top: -12px; margin-left: -11px;" src="profil.jpg" alt="photo-profil-gorce-pierre"> -->
-                    <img style="max-width: 60%; position: absolute; top: -29px;" src="~/assets/profil.jpg" />
+                    <img style="width: 60%;" src="~/assets/profil.jpg" />
                       <!-- <v-img contain src="/assets/profil.jpg" aspect-ratio="1.6">
                         <template v-slot:placeholder>
                           <v-layout fill-height align-center justify-center ma-0>
