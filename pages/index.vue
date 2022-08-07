@@ -11,12 +11,15 @@
                 <v-layout wrap>
                   <v-flex xs12 sm3>
                     <div style="display: flex;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;">
+                                flex-wrap: nowrap;
+                                align-content: center;
+                                justify-content: center;
+                                align-items: center;
+                                overflow: hidden;
+                                height: 174px;
+                                position: relative;">
                       <!-- <img style="max-width: 158px; margin-top: -12px; margin-left: -11px;" src="profil.jpg" alt="photo-profil-gorce-pierre"> -->
-                    <img style="max-width: 60%;" src="~/assets/profil.jpg" />
+                    <img style="max-width: 60%; position: absolute; top: -29px;" src="~/assets/profil.jpg" />
                       <!-- <v-img contain src="/assets/profil.jpg" aspect-ratio="1.6">
                         <template v-slot:placeholder>
                           <v-layout fill-height align-center justify-center ma-0>
@@ -96,7 +99,7 @@
           <v-flex xs12 sm12 class="pa-2">
             <v-card>
               <v-card-text>
-                Recherche un poste avec de la polyvalence dans le domaine de l'administratif liée à la vente et/ou la logistique
+                Recherche un poste avec de la polyvalence dans le domaine de l'administratif lié à la vente et/ou la logistique
                 <br>
                 Some motivation text, explain what I'm looking for
               </v-card-text>
