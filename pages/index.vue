@@ -96,9 +96,24 @@
           <v-flex xs12 sm12 class="pa-2">
             <v-card>
               <v-card-text>
-                Recherche un poste avec de la polyvalence dans le domaine de l'administratif lié à la vente et/ou la logistique
-                <br>
-                Some motivation text, explain what I'm looking for
+                
+
+<v-icon  style="font-size:50px">format_quote</v-icon> 
+<!-- Le sourire, le sens de l'écoute et des capacités d'adaptations font partie de mes qualités. 
+Je recherche un poste avec de la polyvalence dans le domaine de l'administratif lié à la vente et/ou à la logistique. 
+J'aime ce coté "couteau Suisse" qui me qualifie et aimerai le conserver, le peaufiner dans ma prochaine aventure professionnelle. 
+Pourquoi pas au sein de votre équipe ! -->
+
+
+<span style="font-size:15px; line-height:26px;">
+Le sourire, le sens de l'écoute et mes capacités d'adaptations font partie de mes qualités. 
+Je recherche un poste administratif dans les secteurs du commerce et/ou de la logistique, dans lequel je pourrai apporter ma polyvalence et mes compétences.
+J'aime ce coté "couteau-suisse" qui me qualifie, je souhaiterai le conserver et l'enrichir dans ma prochaine aventure professionnelle. 
+Pourquoi pas au sein de votre équipe !
+</span>
+
+
+
               </v-card-text>
             </v-card>
           </v-flex>
