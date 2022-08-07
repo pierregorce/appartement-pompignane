@@ -13,7 +13,7 @@
                     <div style="height:180px; overflow:hidden">
                       <!-- <img style="max-width: 158px; margin-top: -12px; margin-left: -11px;" src="profil.jpg" alt="photo-profil-gorce-pierre"> -->
 
-                      <v-img contain src="~/assets/profil.jpg" aspect-ratio="1.6">
+                      <v-img contain src="@/assets/profil.jpg" aspect-ratio="1.6">
                         <template v-slot:placeholder>
                           <v-layout fill-height align-center justify-center ma-0>
                             <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
