@@ -11,7 +11,7 @@ module.exports = {
     title: "Marion ACETO - CV",
     meta: [{ charset: "utf-8" }, { name: "viewport", content: "width=device-width, initial-scale=1" }, { hid: "description", name: "description", content: "Marion ACETO, CV" }, { hid: "author", name: "author", content: "Marion ACETO" }],
     link: [
-      { rel: "icon", type: "image/png", href: "~/favicon.png" },
+      { rel: "icon", type: "image/png", href: "~/assets/favicon.png" },
       {
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons"

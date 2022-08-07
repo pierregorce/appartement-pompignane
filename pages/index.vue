@@ -8,20 +8,24 @@
             
             <v-card>
               <v-card-text>
-                <v-layout>
+                <v-layout wrap>
                   <v-flex xs12 sm3>
-                    <div style="height:180px; overflow:hidden">
+                    <div style="display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;">
                       <!-- <img style="max-width: 158px; margin-top: -12px; margin-left: -11px;" src="profil.jpg" alt="photo-profil-gorce-pierre"> -->
-
-                      <v-img contain src="./assets/profil.jpg" aspect-ratio="1.6">
+                    <img style="max-width: 60%;" src="~/assets/profil.jpg" />
+                      <!-- <v-img contain src="/assets/profil.jpg" aspect-ratio="1.6">
                         <template v-slot:placeholder>
                           <v-layout fill-height align-center justify-center ma-0>
                             <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
                           </v-layout>
                         </template>
-                      </v-img>
+                      </v-img> -->
                     </div>
-                    <div class="hidden-print" style="text-align: right; position:absolute;">
+                    <div class="hidden-print" style="text-align: right; position:absolute; top : 0px">
                       <v-btn flat icon small @click="theme==0 ? theme=1 : theme=0">
                         <div v-if="theme==0">
                           <v-icon small>brightness_5</v-icon>
@@ -37,8 +41,8 @@
                     <h2>Marion ACETO</h2>
                     <div class="green" style="height:10px"></div>
 
-                  <v-layout wrap pt-3>
-                    <v-flex xs4>
+                  <v-layout wrap pt-3 pr-3>
+                    <v-flex xs12 sm4>
                     <div>
                       <v-icon left>mail</v-icon>
                       <span>marion.aceto@gmail.com</span>
@@ -52,7 +56,7 @@
                       <span>Née le 17/05/1990</span>
                     </div>
                   </v-flex>
-                  <v-flex xs4 pl-3 style="overflow:hidden;">
+                  <v-flex xs12 sm4 pr-3 style="overflow:hidden;">
 
                       <v-layout wrap>
                         <v-flex xs1>
@@ -69,7 +73,7 @@
 
                       
                   </v-flex>
-                  <v-flex xs4 pl-4 style="overflow:hidden;">
+                  <v-flex xs12 sm4 style="overflow:hidden;">
                     <div>
                       <v-icon>format_quote</v-icon>
                       <i>
