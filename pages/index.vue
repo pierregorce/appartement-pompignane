@@ -733,7 +733,7 @@ export default {
   components: {},
   data: function () {
     return {
-      theme: 0
+      theme: 1
     }
   },
   created: function () { },
