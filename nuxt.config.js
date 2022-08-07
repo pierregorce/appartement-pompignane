@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: "Pierre GORCE - Développeur Full Stack",
+    title: "Marion ACETO - CV",
     meta: [{ charset: "utf-8" }, { name: "viewport", content: "width=device-width, initial-scale=1" }, { hid: "description", name: "description", content: "Pierre GORCE, concepteur, développeur Full Stack" }, { hid: "author", name: "author", content: "Pierre GORCE" }],
     link: [
       { rel: "icon", type: "image/png", href: "/favicon.png" },
