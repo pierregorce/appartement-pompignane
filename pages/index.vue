@@ -63,14 +63,15 @@
                           <v-icon left>home</v-icon>
                         </v-flex>
                         <v-flex xs11 pl-3>
-                      <span>900 avenue de la Pompignane<br/>
+                      <!-- <span>900 avenue de la Pompignane<br/>
                             Batiment 7<br/>
                             34000 Montpellier<br/>
+                      </span> -->
+                      <span>38 Chemin de Prèle<br/>
+                            07800 Saint Georges les Bains<br/>
                       </span>
                         </v-flex>
                       </v-layout>
-                      
-
                       
                   </v-flex>
                   <v-flex xs12 sm4 style="overflow:hidden;">
@@ -78,7 +79,7 @@
                       <v-icon>format_quote</v-icon>
                       <i>
                         <b>
-                          Actuellement localisée à Montpellier, je cherche à emménager en Drôme-Ardèche.
+                          En recherche d'un emploi administratif dans les secteurs du commerce et/ou de la logistique
                         </b>
                       </i>
                     </div>
@@ -99,11 +100,6 @@
                 
 
 <v-icon  style="font-size:50px">format_quote</v-icon> 
-<!-- Le sourire, le sens de l'écoute et des capacités d'adaptations font partie de mes qualités. 
-Je recherche un poste avec de la polyvalence dans le domaine de l'administratif lié à la vente et/ou à la logistique. 
-J'aime ce coté "couteau Suisse" qui me qualifie et aimerai le conserver, le peaufiner dans ma prochaine aventure professionnelle. 
-Pourquoi pas au sein de votre équipe ! -->
-
 
 <span style="font-size:15px; line-height:26px;">
 Le sourire, le sens de l'écoute et mes capacités d'adaptations font partie de mes qualités. 
@@ -202,7 +198,7 @@ Pourquoi pas au sein de votre équipe !
 
                           <div class="pt-2 text-color-red">
                             <i>
-                              <v-icon small>build</v-icon>Sage, Wavesoft, Excel, Outlook, Word, CPA (passerelle-Sage), Powerpoint
+                              <v-icon small>build</v-icon>Sage (ERP) & CPA (CRM passerelle Sage), Wavesoft (ERP & CRM), Excel, Outlook, Word, Powerpoint
                             </i>
                           </div>
 
@@ -308,7 +304,7 @@ Pourquoi pas au sein de votre équipe !
                           </div>
                           <div class="pt-2 text-color-red">
                             <i>
-                              <v-icon small>build</v-icon>Wavesoft, Excel, Gmail, Logiciel de caisse, YLMP, Mail Chimp, Réseaux-sociaux
+                              <v-icon small>build</v-icon>Wavesoft (ERP & CRM), Excel, Gmail, Logiciel de caisse, YLMP, Mail Chimp, Réseaux-sociaux
                             </i>
                           </div>
                           <div class="pt-2">
@@ -429,8 +425,8 @@ Pourquoi pas au sein de votre équipe !
                   <h3>
                     <v-icon left>computer</v-icon>Informatique
                   </h3>
-                    <v-chip label>Wavesoft (gestion)</v-chip>
-                    <v-chip label>SAGE (gestion)</v-chip>
+                    <v-chip label>Wavesoft (ERP & CRM)</v-chip>
+                    <v-chip label>SAGE (ERP & CRM)</v-chip>
                     <v-chip label>YLMP (newsletter)</v-chip>
                     <v-chip label>Mail Chimp (newsletter)</v-chip>
                     <v-chip label>Office (Word, Excel, Powerpoint, Outlook)</v-chip>
@@ -443,11 +439,11 @@ Pourquoi pas au sein de votre équipe !
 
                   <div>
                     <v-chip label>Bonne maitrise de l'anglais</v-chip>
-                    <v-chip label>Autonome</v-chip>
-                    <v-chip label>Rigoureuse</v-chip>
                     <v-chip label>Consciencieuse</v-chip>
-                    <v-chip label>Bonne communication</v-chip>
                     <v-chip label>Responsable</v-chip>
+                    <v-chip label>Optimiste</v-chip>
+                    <v-chip label>Curieuse</v-chip>
+                    <v-chip label>Bonne communication</v-chip>
                   </div>
                 </v-card-text>
               </v-card>
