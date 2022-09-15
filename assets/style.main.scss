@@ -1,2 +1,10 @@
 @import '~/assets/style.screen.scss';
 @import '~/assets/style.print.scss';
+
+h3{
+    display: flex;
+    vertical-align: middle;
+    i{
+        padding-right: 5px;
+    }
+}

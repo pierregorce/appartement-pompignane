@@ -4,7 +4,7 @@ module.exports = {
   */
   target: 'static',
   router: {
-    base: '/marion-cv/'
+    base: '/appartement-pompignane/'
   },
 
   head: {
@@ -22,15 +22,11 @@ module.exports = {
       },
     ]
   },
-  /*
-  ** Customize the progress bar color
-  */
+  // Customize the progress bar color
   loading: { color: "#3B8070" },
-
-  plugins: ["~/plugins/vuetify.js", { src: "~plugins/google-analytics.js", ssr: false }],
-
+  plugins: ["~/plugins/vuetify.js",  { src: "~/plugins/utils.js" }, { src: "~plugins/google-analytics.js", ssr: false }],
   css: ["vuetify/dist/vuetify.min.css", "@/assets/style.main.scss"],
-
+  generate: { dir : 'dist'},
   /*
   ** Build configuration
   */
@@ -52,9 +48,7 @@ module.exports = {
     // }
   },
 
-  generate: {
-    dir : 'dist',
-  }
+ 
 
 
 };
