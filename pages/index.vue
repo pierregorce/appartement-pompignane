@@ -13,26 +13,22 @@
                     <v-layout wrap>
                       <v-flex xs12 md6 mb-3 pr-2>
                         <h3><v-icon>fmd_good</v-icon> Localisation</h3>
-                        <div>Quartier : Pompignane</div>
+                        <div>- Quartier : Pompignane</div>
                         <div>
-                          Addresse : 900 avenue de la Pompignane, 34000
+                          - Addresse : 900 avenue de la Pompignane, 34000
                           Montpellier
                         </div>
-                        <div>
-                          Copropriété - résidence des années 1980 avec jardins
-                        </div>
-                        <div>Entièrement sécurisée</div>
-                        <div>
-                          Nombreuses places de parking visiteur ou pour une 2ème voiture
-                        </div>
+                        <div>- Copropriété - résidence des années 1980 avec jardins</div>
+                        <div>- Entièrement sécurisée</div>
+                        <div>- Nombreuses places de parking visiteur ou pour une 2ème voiture</div>
                       </v-flex>
                       <v-flex xs12 md6 mb-3 pr-2>
                         <h3><v-icon>solar_power</v-icon> Environnement</h3>
-                        <div>Aucun vis-à-vis, vue dégagée</div>
-                        <div>Lumineux et ensolleillé</div>
-                        <div>Traversant, double exposition : Sud et Nord</div>
-                        <div>Balcons</div>
-                        <div>Nombreux placards aménagés</div>
+                        <div>- Aucun vis-à-vis, vue dégagée</div>
+                        <div>- Trés lumineux et ensolleillé (portes-fenêtres)</div>
+                        <div>- Traversant, double exposition : Sud et Nord</div>
+                        <div>- Balcons</div>
+                        <div>- Nombreux placards aménagés</div>
                       </v-flex>
                     </v-layout>
                   </v-flex>
@@ -40,29 +36,29 @@
                     <v-layout wrap>
                       <v-flex xs12 md6 mb-3 pr-2>
                         <h3><v-icon>tune</v-icon> Technique</h3>
-                        <div>Renovée il y a 2 ans</div>
-                        <div>Climatisation réversible</div>
-                        <div>Double vitrage aluminium</div>
-                        <div>Ballon d'eau chaude éléctrique 200 litres</div>
-                        <div>DPE B</div>
-                        <div>Volets roulant éléctrique</div>
-                        <div>Assenceur</div>
-                        <div>Baignoire</div>
+                        <div>- Entièrement renovée il y a 2 ans avec des matériaux de qualité</div>
+                        <div>- Climatisation réversible</div>
+                        <div>- Double vitrage aluminium</div>
+                        <div>- Ballon d'eau chaude éléctrique 200 litres</div>
+                        <div>- DPE B</div>
+                        <div>- Volets roulants éléctriques</div>
+                        <div>- Ascenceur</div>
+                        <div>- Baignoire</div>
                       </v-flex>
 
                       <v-flex xs12 md6 mb-3>
                         <h3><v-icon>holiday_village</v-icon> Caractéristiques</h3>
-                        <div>4ème étage sur 6</div>
-                        <div>avec garage (13m²) et cave attenante (3m²)</div>
-                        <div>T3, superficie : <b>74 m²</b></div>
+                        <div>- 4ème étage sur 6</div>
+                        <div>- avec garage (13m²) et cave attenante (3m²)</div>
+                        <div>- T3, superficie : <b>74,5 m²</b></div>
                         <div>
-                          prix : <b>280 000 €</b>
+                          - prix : <b>280 000 €
                           <i>
-                            (xxxx €/m²)
-                          </i>
+                            (3750 €/m²)
+                          </i></b>
                         </div>
-                        <div>charge annuelles de copropriété : 1200 €</div>
-                        <div>taxe fonciere : 1500 €</div>
+                        <div>-charge annuelles de copropriété : 1200 € (eau froide, entretien)</div>
+                        <div>- taxe foncière : 1500 €</div>
                       </v-flex>
                     </v-layout>
                   </v-flex>
@@ -248,9 +244,9 @@ export default {
       currentPlanIndex: 0,
       modalPlanVisible: false,
       plans: [
-        { url: require("/assets/Plans/01.png") },
-        { url: require("/assets/Plans/02.png") },
-        { url: require("/assets/Plans/03.png") },
+        { url: require("/assets/Plans/01.jpg") },
+        { url: require("/assets/Plans/02.jpg") },
+        { url: require("/assets/Plans/03.jpg") },
       ],
 
       currentPhotoIndex: 0,

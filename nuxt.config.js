@@ -8,8 +8,8 @@ module.exports = {
   },
 
   head: {
-    title: "Marion ACETO - CV",
-    meta: [{ charset: "utf-8" }, { name: "viewport", content: "width=device-width, initial-scale=1" }, { hid: "description", name: "description", content: "Marion ACETO, CV" }, { hid: "author", name: "author", content: "Marion ACETO" }],
+    title: "Appartement-Pompignane - CV",
+    meta: [{ charset: "utf-8" }, { name: "viewport", content: "width=device-width, initial-scale=1" }, { hid: "description", name: "description", content: "Appartement-Pompignane, CV" }, { hid: "author", name: "author", content: "Appartement-Pompignane" }],
     link: [
       { rel: "icon", type: "image/png", href: "~/assets/favicon.png" },
       {
