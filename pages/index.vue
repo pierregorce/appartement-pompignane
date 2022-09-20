@@ -80,7 +80,7 @@
                     </div>
                     <div>- T3, superficie : <b>74,66 m²</b></div>
                     <div>
-                      - prix : <b>280 000 € <i> (~3750 €/m²) </i></b>
+                      - prix : <b>285 000 € <i> (~3800 €/m²) </i></b>
                     </div>
                     <div>
                       - charge annuelles de copropriété :
