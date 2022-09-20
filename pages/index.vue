@@ -48,6 +48,7 @@
                         <div>- Nombreux placards aménagés</div>
                         <div>- Dressing</div>
                         <div>- 2 Chambres</div>
+                        <div>- Coin bureau/jeux (démontable facilement)</div>
                       </v-flex>
                     </v-layout>
                   </v-flex>
