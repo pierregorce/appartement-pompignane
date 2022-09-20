@@ -8,8 +8,9 @@
               <v-card-text>
                 <div class="mb-4">
                 <h2>Vente appartement Montpellier</h2>
-                <h4>1er contact par email uniquement, pas d'agence : <b>gorce.pierre@gmail.com</b></h4>
-                <h4>Plan de financement serieux demandé. Merci.</h4>
+                <h4>- Cause déménagement dans une autre région.</h4>
+                <h4>- 1er contact par email uniquement, pas d'agence : <b>gorce.pierre@gmail.com</b></h4>
+                <h4>- Plan de financement serieux demandé. Merci.</h4>
                 </div>
                 <v-layout wrap>
                   <v-flex xs12 sm6>
@@ -130,7 +131,7 @@
                 </v-layout>
 
                 <template>
-                  <v-dialog v-model="modalPlanVisible" width="80%">
+                  <v-dialog v-model="modalPlanVisible" width="90%">
                     <v-card>
                       <v-card-actions>
                         <v-spacer></v-spacer>
@@ -161,11 +162,11 @@
                       <v-icon>file_copy</v-icon> Documents disponibles sur demande
                     </h3>
                   </div>
-                  <div>Diagnostics techniques réalisés en 09/2022</div>
-                  <div>Diagnostics techniques batiment 2020</div>
-                  <div>Compte rendu AG 2022-2021-2020-2019-2018</div>
-                  <div>Reglements de copropriété</div>
-                  <div>Carnet d'entretien</div>
+                  <div>- Diagnostics techniques réalisés en 09/2022</div>
+                  <div>- Diagnostics techniques batiment 2020</div>
+                  <div>- Compte rendu AG 2022-2021-2020-2019-2018</div>
+                  <div>- Reglements de copropriété</div>
+                  <div>- Carnet d'entretien</div>
                 </div>
               </v-card-text>
             </v-card>
@@ -212,7 +213,7 @@
               </v-card-text>
 
               <template>
-                <v-dialog v-model="modalPhotoVisible" width="80%">
+                <v-dialog v-model="modalPhotoVisible" width="90%">
                   <v-card>
                     <v-card-actions>
                       <v-spacer></v-spacer>
@@ -228,8 +229,9 @@
 
                     <v-card-text class="text-xs-center">
                       <img
-                        style="max-width: 100%"
+                        style="width:100%; max-width: 1400px"
                         :srcset="photos[currentPhotoIndex].url"
+                      
                         alt=""
                       />
                     </v-card-text>
