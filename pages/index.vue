@@ -13,7 +13,7 @@
                     - 1er contact par email uniquement, pas d'agence :
                     <b>gorce.pierre@gmail.com</b>
                   </h4>
-                  <h4>- Plan de financement serieux demandé. Merci.</h4>
+                  <h4>- Plan de financement sérieux demandé. Merci.</h4>
                 </div>
                 <v-layout wrap>
                   <v-flex xs12 md6 mb-3 pr-2>
@@ -24,10 +24,10 @@
                       Montpellier
                     </div>
                     <div>
-                      - Quatier Pompignane (écoles, commerces, calme : nombreuses maisons individuelles)
+                      - Quartier Pompignane (écoles, commerces, calme : nombreuses maisons individuelles)
                     </div>
                     <div>
-                      - Localisation centrale : nombreux accés rapides aux grands axes : aéroport à 10min, centre ville à 5 min, Castelnau-le-Lez, Lattes, Mauguio à environ 5min 
+                      - Localisation centrale : nombreux accès rapides aux grands axes : aéroport à 10min, centre-ville à 5 min, Castelnau-le-Lez, Lattes, Mauguio à environ 5min 
                     </div>
 
                   </v-flex>
@@ -50,7 +50,7 @@
                     <h3><v-icon>solar_power</v-icon> Environnement</h3>
                     <div>- 4ème étage sur 6</div>
                     <div>- Aucun vis-à-vis, vue dégagée</div>
-                    <div>- Trés lumineux et ensolleillé (portes-fenêtres)</div>
+                    <div>- Très lumineux et ensoleillé (portes-fenêtres)</div>
                     <div>- Traversant, double exposition : Sud et Nord</div>
                     <div>- Balcons</div>
                     <div>- Nombreux placards aménagés</div>
@@ -61,16 +61,16 @@
                   <v-flex xs12 md6 mb-3 pr-2>
                     <h3><v-icon>tune</v-icon> Technique</h3>
                     <div>
-                      - Entièrement renové il y a 2 ans avec des matériaux de
+                      - Entièrement rénové il y a 2 ans avec des matériaux de
                       qualité (chène massif, carrelage, stratifié)
                     </div>
                     <div>- Climatisation réversible</div>
                     <div>- Double vitrage aluminium</div>
-                    <div>- Ballon d'eau chaude éléctrique 200 litres</div>
+                    <div>- Ballon d'eau chaude électrique 200 litres</div>
                     <div>- Baignoire</div>
                     <div>- DPE B</div>
-                    <div>- Volets roulants éléctriques</div>
-                    <div>- Ascenceur</div>
+                    <div>- Volets roulants électriques</div>
+                    <div>- Ascenseur</div>
                   </v-flex>
                   <v-flex xs12 md6 mb-3>
                     <h3><v-icon>holiday_village</v-icon> Caractéristiques</h3>
@@ -80,11 +80,11 @@
                     </div>
                     <div>- T3, superficie : <b>74,66 m²</b></div>
                     <div>
-                      - prix : <b>285 000 € <i> (~3800 €/m²) </i></b>
+                      - prix : <b>295 000 € <i> (~3950 €/m²) </i></b>
                     </div>
                     <div>
                       - charge annuelles de copropriété :
-                      <b>~1550 €</b> (eau froide, ascenceur, entretien)
+                      <b>~1550 €</b> (eau froide, ascenseur, entretien, jardiniers)
                     </div>
                     <div>- taxe foncière : <b>~1500 €</b></div>
                   </v-flex>
@@ -97,9 +97,9 @@
                       </h3>
                     </div>
                     <div>- Diagnostics techniques réalisés en 09/2022</div>
-                    <div>- Diagnostics techniques batiment 2020</div>
+                    <div>- Diagnostics techniques bâtiment 2020</div>
                     <div>- Compte rendu AG 2022-2021-2020-2019-2018</div>
-                    <div>- Reglements de copropriété</div>
+                    <div>- Règlements de copropriété</div>
                     <div>- Carnet d'entretien</div>
                   </v-flex>
                 </v-layout>
